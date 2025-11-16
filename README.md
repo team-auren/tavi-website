@@ -1,6 +1,6 @@
 # Lazrani - Luxury Brand Waitlist
 
-A minimalist, elegant waitlist landing page for Lazrani luxury brand, featuring a sophisticated design with gold accents and interactive magic cursor effects.
+A minimalist, elegant waitlist landing page for Lazrani luxury brand, featuring a sophisticated design with gold accents and interactive magic cursor effects. 
 
 ## < Features
 
@@ -11,7 +11,7 @@ A minimalist, elegant waitlist landing page for Lazrani luxury brand, featuring 
 - Fully responsive design
 - Smooth animations and transitions
 
-## =€ Deployment on Vercel
+## =ï¿½ Deployment on Vercel
 
 ### Quick Deploy
 
@@ -29,7 +29,7 @@ VITE_SUPABASE_URL=your_supabase_project_url
 VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
 ```
 
-## =à Local Development
+## =ï¿½ Local Development
 
 ### Prerequisites
 
@@ -65,7 +65,7 @@ npm run dev
 npm run build
 ```
 
-## =æ Tech Stack
+## =ï¿½ Tech Stack
 
 - **Frontend**: React, TypeScript, Vite
 - **Styling**: Tailwind CSS
@@ -73,12 +73,12 @@ npm run build
 - **Deployment**: Vercel
 - **UI Components**: Radix UI
 
-## <¨ Design System
+## <ï¿½ Design System
 
 - **Primary Color**: Gold (#BAA476)
 - **Background**: Cream (#F5F0EB)
 - **Typography**: Playfair Display (headers), Inter (body)
 
-## =Ý License
+## =ï¿½ License
 
 Private - All rights reserved
