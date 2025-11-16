@@ -94,7 +94,7 @@ const Hero = () => {
           
           {/* Tagline */}
           <p className="font-body text-lg text-muted-foreground max-w-lg mx-auto leading-relaxed font-extralight md:text-sm">
-            Indo-Western fashion designed in the U.S. and crafted in India
+            Indo-Western fashion designed in the U.S. and inspired by South Asia
           </p>
 
           {/* Direct Email Entry */}
